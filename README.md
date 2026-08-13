@@ -4,7 +4,7 @@ A simple gaming website built using **HTML, CSS, and JavaScript**.
 
 ## Games
 
-- Tic-Tac-Toe
+- Tic Tac Toe
 - Stone Paper Scissors
 
 ## Technologies Used
