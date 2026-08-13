@@ -1,4 +1,4 @@
-# GameHub🎮
+# GameHub
 
 A simple gaming website built using **HTML, CSS, and JavaScript**.
 
